@@ -3,6 +3,9 @@
 »ù´¡½²
 http://blog.csdn.net/u013063153/article/details/52513872/#/dasdas
 
+// °¢ÀïÇ°¶Ë ·¶ºé´º
+https://zhuanlan.zhihu.com/p/20381597
+
 http://react-guide.github.io/react-router-cn/docs/guides/advanced/DynamicRouting.html
 
 
