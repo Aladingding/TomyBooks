@@ -1,5 +1,19 @@
 路由篇
 
+锚点
+https://zhangjg.github.io/blog/2016/01/06/The-Anchor-in-HTML5.html
+
+http://www.ruanyifeng.com/blog/2011/03/url_hash.html  URL的井号
+
+hash 
+https://developer.mozilla.org/zh-CN/docs/Web/API/Window/onhashchange#1312231
+
+pajax
+http://www.zhangxinxu.com/wordpress/2013/06/html5-history-api-pushstate-replacestate-ajax/
+
+location VS history
+location兼容性优于history
+
 基础讲
 http://blog.csdn.net/u013063153/article/details/52513872/#/dasdas
 
@@ -11,3 +25,7 @@ http://react-guide.github.io/react-router-cn/docs/guides/advanced/DynamicRouting
 
 
 http://www.jianshu.com/p/40759eb999bc
+
+
+React路由管理 —— React Router 总结
+http://blog.csdn.net/haoshidai/article/details/52755193
